@@ -1,0 +1,20 @@
+nav {
+	float: left;
+	width: 25%;
+
+	border: solid red 1px;
+}
+
+section {
+	margin-left: 25%;
+	
+	border: solid blue 1px;
+}
+
+.container {
+	overflow: auto;
+	zoom: 1;  /* IE6 */
+
+	border: solid green 1px;
+}
+
