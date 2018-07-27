@@ -1,0 +1,21 @@
+.container {
+	display: -webkit-flex;
+	display: flex;
+
+	border: solid blue 1px;
+}
+
+nav {
+	width: 200px;
+
+	border: solid red 1px;
+}
+
+.flex-column {
+	-webkit-flex: 1;
+	flex: 1;
+}
+
+section {
+	border: solid green 1px;
+}

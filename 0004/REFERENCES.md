@@ -1,0 +1,5 @@
+- [CSS - flexbox](http://learnlayout.com/flexbox.html)
+- [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/#feat=flexbox)
+- [CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)
+- [&quot;Old&quot; Flexbox and &quot;New&quot; Flexbox | CSS-Tricks](https://css-tricks.com/old-flexbox-and-new-flexbox/)
+- [Dive into Flexbox - design, tools and workflow - Bocoup](https://bocoup.com/blog/dive-into-flexbox)
